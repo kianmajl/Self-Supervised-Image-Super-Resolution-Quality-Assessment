@@ -1,8 +1,13 @@
-## Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Model-Oriented Representation Learning
+## Self-Supervised Image Super-Resolution Quality Assessment based on Content-Free Multi-Model Oriented Representation Learning
 
 ### Overview
 
 ### Authors
+- Kian Majlessi
+- Amir Masoud Soltani
+- Mohammad Ebrahim Mahdavi
+- Aurelien Gourrier
+- Peyman Adibi
 
 ### Citation
 If you find this project useful, then please consider citing both our paper and dataset.
@@ -13,7 +18,6 @@ If you find this project useful, then please consider citing both our paper and 
 @data{
 }
 ```
-
 
 ### Source Code License 
 
